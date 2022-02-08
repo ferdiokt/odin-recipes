@@ -1,0 +1,44 @@
+* {
+  font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image {
+  width: 400px;
+  height: auto;
+  padding: 10px;
+}
+
+.description {
+  font-size: 20px;
+  color: black;
+  background-color: pink;
+}
+
+.title {
+  font-size: 32px;
+  padding: 10px;
+  background-color: aqua;
+}
+
+.list {
+  font-size: 16px;
+  padding: 10px;
+}
+
+ul {
+  background-color: aquamarine;
+}
+
+p {
+  font-size: 16px;
+  padding: 5px;
+}
+
+ol {
+  background-color: aquamarine;
+}
+
+li {
+  padding: 2px;
+  text-align: justify;
+}
